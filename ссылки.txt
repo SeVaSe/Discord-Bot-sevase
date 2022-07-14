@@ -1,0 +1,3 @@
+https://discordapp.com/developers/applications/ - sozdanie bota
+https://discordpy.readthedocs.io/en/latest/api.html#user - doki
+https://discordapp.com/oauth2/authorrize?client_id=ID&permissions=8 - connect
